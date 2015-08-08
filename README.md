@@ -1,3 +1,7 @@
+OS: Linux Ubuntu 14.04 LTE
+Framework: Qt 5.5
+
+
 1. git clone https://github.com/enshirokov/ivideon.git
 
 2. cd ivideon
